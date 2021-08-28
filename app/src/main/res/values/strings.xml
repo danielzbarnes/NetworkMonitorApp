@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkMonitorApp</string>
+    <string name="connected">Network Status: Connected</string>
+    <string name="disconnected">Network Status: Disconnected</string>
+</resources>
